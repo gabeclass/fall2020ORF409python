@@ -19,5 +19,10 @@ the Python and NumPy basics quickly and move to the examples.
 Both "basics" files are really bare essentials of stuff I used to
 solve the two problems Mete showed me.
 
+I have cleared out the output in all the files.  They are meant to be
+run by the students as they work through the notebook, generating
+output as they go.  All the random-number generators are seeded
+explicitly, so if people run the cells in order, they should always
+get the same results.
 
 Please email me if there are any questions.  gabe.perezgiz@princeton.edu
